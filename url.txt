@@ -1,1 +1,1 @@
-www.google.com
+https://my-new-url.com/data
